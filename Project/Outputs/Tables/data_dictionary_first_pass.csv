@@ -1,0 +1,23 @@
+column_name,likely_type,first_pass_meaning
+HighBP,binary,High blood pressure indicator
+HighChol,binary,High cholesterol indicator
+CholCheck,binary,Cholesterol check indicator
+BMI,continuous,Body Mass Index
+Smoker,binary,Smoking indicator
+Stroke,binary,Stroke history indicator
+HeartDiseaseorAttack,binary,Heart disease or heart attack history indicator
+PhysActivity,binary,Physical activity indicator
+Fruits,binary,Fruit consumption indicator
+Veggies,binary,Vegetable consumption indicator
+HvyAlcoholConsump,binary,Heavy alcohol consumption indicator
+AnyHealthcare,binary,Any healthcare coverage/access indicator
+NoDocbcCost,binary,Could not see doctor because of cost indicator
+GenHlth,ordinal,General health self-rating
+MentHlth,count/discrete,Poor mental health days
+PhysHlth,count/discrete,Poor physical health days
+DiffWalk,binary,Difficulty walking indicator
+Sex,binary,Sex variable
+Age,ordinal,Age category
+Education,ordinal,Education level
+Income,ordinal,Income category
+Diabetes_binary,binary target,Diabetes outcome target
